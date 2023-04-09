@@ -1,6 +1,24 @@
 # Get Fruit [ Game ]
 
-## Entidades
+## Layers
+
+1. Presentation
+
+   > Render canvas, print game, appearance game...
+
+2. Game
+
+   > Archive data state and logic of game(define rules)
+
+3. Inputs
+
+   > Get input events
+
+4. Networking
+
+   > Share information of server-side for all clients. Sync information's
+
+## Entities
 
 ### Create Game
 
