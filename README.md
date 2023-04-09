@@ -78,12 +78,5 @@ detectCollision (command) { }
 
 ### Create Keyboard Listener
 
-> handleKeyDown
-
-```
-
-```
-
-```
-
-```
+- handleKeyDown
+>
